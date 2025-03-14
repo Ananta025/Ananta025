@@ -1,6 +1,6 @@
 # 👋 Hi there!, I'm Ananta Chandra Das
 ## 💫 About Me:
-📚 I'm a second year CSE Student at RCC Institute of Information Technology.<br>🌱 I’m currently learning DSA(Java) & MERN Stack<br>💞️I’m looking for opportunities to collaborate on multiple projects to expand my expertise and learn from others.<br>📄 Here is my <a href="https://drive.google.com/file/d/1S2GtKxcv9QfLOuupZ8wzN61PB3AE-HMz/view?usp=sharing">Resume<a/>.<br>📫 You can contact me at : anantachandradas8@gmail.com
+📚 I'm a second year CSE Student at RCC Institute of Information Technology.<br>🌱 I’m currently learning DSA(Java) & MERN Stack<br>💞️I’m looking for opportunities to collaborate on multiple projects to expand my expertise and learn from others.<br>📄 Here is my <a href="https://drive.google.com/file/d/1p1R0cguI6acimRlLBYcqFePrbKzEFH2W/view?usp=sharing">Resume<a/>.<br>📫 You can contact me at : anantachandradas8@gmail.com
 
 
 ## 🌐 Socials:
